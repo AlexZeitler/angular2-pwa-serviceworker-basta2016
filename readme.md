@@ -9,7 +9,7 @@ This sample shows:
 - AppShell Pattern with Caching to quickly provide value to the user
 - Web App Manifest and a Fallback using Meta-Tags to install the App to the Home Screen
 - Background Synchronisation with Service Workers
-- Push Notifications with Service Worksers
+- Push Notifications with Service Workers
 
 ## Prerequisites
 
